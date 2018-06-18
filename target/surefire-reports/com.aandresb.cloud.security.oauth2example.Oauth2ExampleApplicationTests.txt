@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.aandresb.cloud.security.oauth2example.Oauth2ExampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.466 s - in com.aandresb.cloud.security.oauth2example.Oauth2ExampleApplicationTests
